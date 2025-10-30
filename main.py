@@ -3,7 +3,7 @@
 Created on Fri Nov  9 17:41:11 2018
 
 @author: rsubrama
-Implemented as a course project (Fall 2018) using Dr. Andrew Ng's deep learning materials to develop practical understanding of neural networks.
+Implemented as a course project (Fall 2018) using Dr. Andrew Ng's online deep learning materials to develop practical understanding of neural networks.
 """
 import pandas as pd
 import numpy as np
@@ -81,5 +81,6 @@ def main():
 if __name__ == '__main__':
 
     main()
+
 
 
