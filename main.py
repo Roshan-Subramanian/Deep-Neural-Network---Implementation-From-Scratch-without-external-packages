@@ -3,6 +3,7 @@
 Created on Fri Nov  9 17:41:11 2018
 
 @author: rsubrama
+This code was written using the course material of Dr. Andrew Ng for my statistical course project.
 """
 import pandas as pd
 import numpy as np
@@ -78,4 +79,5 @@ def main():
     
 
 if __name__ == '__main__':
+
     main()
